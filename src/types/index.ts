@@ -17,7 +17,6 @@ export interface Freelancer {
   name: string;
   skill: string;
   categoryId: string;
-  regionId: string;
   rating: number;
   rate: number;
   availability: string;
