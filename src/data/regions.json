@@ -1,0 +1,38 @@
+[
+  {
+    "id": "design-district",
+    "name": "Design District",
+    "description": "Where aesthetics meet function. The brightest minds in visual design, UI/UX, and art direction.",
+    "color": "#FF3366"
+  },
+  {
+    "id": "code-sector",
+    "name": "Code Sector",
+    "description": "The logic engines. Top-tier software engineers, creative coders, and system architects.",
+    "color": "#33CCFF"
+  },
+  {
+    "id": "motion-valley",
+    "name": "Motion Valley",
+    "description": "Bringing ideas to life. Experts in animation, kinetics, and fluid transitions.",
+    "color": "#FF9933"
+  },
+  {
+    "id": "branding-coast",
+    "name": "Branding Coast",
+    "description": "Storytellers and identity builders shaping the voice of tomorrow's companies.",
+    "color": "#B833FF"
+  },
+  {
+    "id": "ui-capital",
+    "name": "UI Capital",
+    "description": "Master craftspersons of the interface. Bridging the gap between human and machine.",
+    "color": "#33FF99"
+  },
+  {
+    "id": "3d-frontier",
+    "name": "3D Frontier",
+    "description": "Architects of the virtual. Shaping geometry, light, and material into new realities.",
+    "color": "#FF3333"
+  }
+]
